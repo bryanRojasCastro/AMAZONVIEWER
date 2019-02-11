@@ -1,0 +1,12 @@
+tipos de datos primitivos VS tipos de datos wrapper.
+
+
+La diferencia radica en que los primitivos almacenan datos, 
+mientras que lo wrapper podemos almmacenar, y dar valor null a la variable, y acceder a los metodos
+propios del tipo de dato. Los tipos de datos wrapper va la primer letra en
+mayuscula.  ejemplo = Integer;
+
+null = ningun datos asociado.
+
+
+Encapsulammiento : ocultacion del estado, o de los datos miembros de un objeto.
